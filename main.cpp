@@ -4,7 +4,7 @@ int main() {
    float a,b;
    int c=0;
    cin >>a>>b;
-   cin >> i;
+   cin >> c;
    switch(c){
       case 0:
          c=0;
