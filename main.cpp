@@ -6,15 +6,15 @@ int main() {
    cin >>a>>b;
    cin >> i;
    switch(c){
-      case 1:
+      case 0:
          c=0;
          cout << ((a*b)/2) << endl;
          break;
-      case 2:
+      case 1:
          c=1;
          cout << a*a << endl;
          break;
-      case 3:
+      case 2:
          c=2;
          cout << a*b << endl;
          break;
