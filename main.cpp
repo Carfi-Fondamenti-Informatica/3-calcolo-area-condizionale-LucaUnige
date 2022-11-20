@@ -1,5 +1,5 @@
 #include <iostream>
-using nam espace std;
+using namespace std;
 int main() {
    float a,b;
    int i=0;
